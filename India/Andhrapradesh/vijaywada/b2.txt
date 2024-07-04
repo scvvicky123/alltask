@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello 2
+=======
+vijayw 2
+>>>>>>> second
